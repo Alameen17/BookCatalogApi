@@ -163,6 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+alameenadekunle029@gmail.com
 
 Project Link: [https://github.com/yourusername/book-catalog-api](https://github.com/yourusername/book-catalog-api)
